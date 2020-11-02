@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": <password to mongodb>,
+        "JWT_KEY": <secret key for JWT>
+    }
+}
